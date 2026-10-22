@@ -5,7 +5,7 @@
 Make an app, where users can import their Spotify data. We try to answer the question, of how people discover music. We are interested in how long people listen to new artists, which artists people fall back on, etc.
 
 2. Why?
-Favourite music seems to have recency bias (at least for us). We want to get to know our listening habits in order to get to know ourselves a little better.
+Music is something that everyone interacts with daily. We feel that this is something that a lot of people can benefit from. Is there recency bias in music? Goes beyond Spotify wrapped, shows which artists you skip, etc.
 
 3. How?
-
+Let ppl upload json file. This includes your entire play-history. Clean data(remove IP address, convert time from UTC, remove podcasts, minimum listening time of 30 sec). We pull genre tags from an API.
